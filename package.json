@@ -1,0 +1,19 @@
+{
+  "name": "level-is-empty",
+  "version": "1.0.0",
+  "description": "Find out if your levelDB is empty!",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "levelDB",
+    "empty"
+  ],
+  "author": "Julia Friesel <julia.friesel@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "level-test": "^2.0.0",
+    "tape": "^4.0.0"
+  }
+}
