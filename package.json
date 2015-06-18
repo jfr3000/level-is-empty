@@ -15,5 +15,13 @@
   "devDependencies": {
     "level-test": "^2.0.0",
     "tape": "^4.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfr3000/level-is-empty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jfr3000/level-is-empty/issues"
+  },
+  "homepage": "https://github.com/jfr3000/level-is-empty#readme"
 }
